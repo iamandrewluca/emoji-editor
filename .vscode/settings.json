@@ -1,0 +1,9 @@
+{
+	"typescript.tsdk": "./node_modules/typescript/lib",
+	"editor.renderWhitespace": "all",
+	"editor.guides.indentation": true,
+	"editor.formatOnSave": true,
+	"[svelte][javascript][typescript][json][jsonc][md]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
